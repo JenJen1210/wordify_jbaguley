@@ -1,4 +1,5 @@
 require "wordify_jbaguley/version"
+require "wordify_jbaguley/greeting"
 
 module WordifyJbaguley
   def self.reversify(str)
